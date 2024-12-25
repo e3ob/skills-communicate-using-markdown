@@ -8,3 +8,8 @@
 go mod init New-Project                                                                        
 go: creating new go.mod: module New-Project
 ```
+
+# To-Do in the repo
+- [x] Create repo
+- [x] Make PR and doing changes
+- [ ] Finalize them
